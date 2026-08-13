@@ -51,9 +51,6 @@ First, obtain the server configuration details from your cPanel.
 2. Enter your **Name** (the sender name recipients will see) and keep **Treat as an alias** checked. Click **Next Step**.
 3. Fill in the SMTP details.
    
-   > 💡 **PRO TIP (Troubleshooting):** 
-   > Try Option A first. If you encounter an error ("Error: you must provide SMTP information..."), proceed with Option B.
-   
    **Option A (Default):**
    - **SMTP Server:** mail.yourdomain.com
    - **Port:** 465
